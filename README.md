@@ -1,8 +1,10 @@
 # Vikram Kumar - Portfolio Website 🚀
 
-A modern, responsive portfolio website showcasing my skills, projects, and experience as a B.Tech IT student and developer.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://vikram-portfolio-pro.vercel.app)
 
-![Portfolio Preview](assets/profile.png)
+A modern, responsive portfolio website showcasing my skills, projects, and experience. Built with a premium glassmorphism design, smooth animations, and a focus on visual excellence.
+
+![Portfolio Preview](assets/about.png)
 
 ## 🌟 Features
 
@@ -50,8 +52,8 @@ vikram-portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vikramkumarx/portfolio.git
-   cd portfolio
+   git clone https://github.com/Vikramkumarx/vikram-portfolio.git
+   cd vikram-portfolio
    ```
 
 2. **Open the website**
